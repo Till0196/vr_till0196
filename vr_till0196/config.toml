@@ -1,0 +1,71 @@
+theme = "showfolio"
+languageCode = "ja-jp"
+baseurl = "https://example.com"
+title = "Till0196 VR Profile"
+
+
+[params]
+  name = "Till0196 VR Profile"
+  description = "Modern portfolio theme for your Hugo site."
+  author = "Till0196"
+  authorEmail = "name@example.com"
+  authorImage = "/photo.png"
+  autoDarkMode = true
+
+  copyright = "Copyright © 2021 - Till0196 · All rights reserved"
+
+[params.homepage]
+  title = "ラスクちゃんはカワイイ"
+  tagline = "Till0196"
+  description = "のんびりまったり"
+
+#[params.homepage.codepen]
+#  username = "apvarun"
+#  pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
+
+[[params.homepage.resume.work]]
+  name = "VRChatスタート"
+  role = "初代Oculus Quest単機勢として"
+  duration = "2020.07.30"
+
+[[params.homepage.resume.work]]
+  name = "VRChatワールド「Just Chinema!」をアップロード"
+  role = "初めてのパブリックワールド"
+  duration = "2021.02.13"
+
+[[params.homepage.resume.work]]
+  name = "VRChatワールド「tillroom」をアップロード"
+  role = "初めてアップロードしたおうちワールド"
+  duration = "2021.06.16"
+
+[[params.homepage.resume.work]]
+  name = "VRChatワールド「small tillroom」アップロード"
+  role = "Unityアセット「ProBuilder」で作ったワールド"
+  duration = "2021.07.17"
+
+[[params.homepage.resume.work]]
+  name = "オンラインゲームジャム「ClusterGAMEJAM 2021 in SUMMER」にチーム参戦"
+  role = "Unity特別賞とストーリー部門で「一緒に語ろう賞」を頂きました"
+  duration = "2021.08.13-15"  
+
+[[params.homepage.resume.work]]
+  name = "VRChatワールド「tillroom」大型アップデート"
+  role = "Unityアセット「ProBuilder」で作ったワールド第二弾としてリメイク"
+  duration = "2021.11.19"
+
+
+[params.homepage.social]
+  twitter = "https://twitter.com/till0196_vrchat"
+  twitter2 = "https://twitter.com/till0196"
+  instagram = "https://www.instagram.com/till0196/"
+  github = "https://github.com/Till0196"
+
+[build]
+  writeStats = true
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    unsafe = "true"
