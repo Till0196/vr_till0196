@@ -30,21 +30,43 @@ type: about
 {{< /col>}}
 {{< /grid2 >}}
 
+## About
+いろいろやっては見るけど、なかなか形にならない。  
+コードはかけません。モデリングできません。・ω・  
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+maimaiとかCHUNITHMやってます（マジのエンジョイ勢なので全然うまくないです）  
+音ゲーは好き
 
-Hugo makes use of a variety of open source projects including:
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+## History
+#### 2020.07.30 
+  VRChatスタート  
+  この時は、初代Occulus Questでした。
+  
+  {{< tweet 1289139396994727937 >}}
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+#### 2021.02.13
+  VRChatワールド「Just Chinema!」をアップロード  
+  初めてVRChatにパブリックワールドをアップロードしました。  
+  {{< tweet 1359566514941136896 >}}
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+#### 2021.06.16
+  VRChatワールド「tillroom」をアップロード  
+  おうち系ワールド一つ目  
+  {{< tweet 1403714311801827333 >}}
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+#### 2021.07.17
+  VRChatワールド「small tillroom」アップロード  
+  おうち系ワールド二つ目。ワンルームになる予定だったのに、いつの間にかsmallでなくなってしまった。UnityアセットのProBuilderで作りました。  
+  {{< tweet 1403714311801827333 >}}
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+#### 2021.08.13-15
+  オンラインゲームジャム「ClusterGAMEJAM 2021 in SUMMER」にチーム参戦  
+  Unity特別賞とストーリー部門で「一緒に語ろう賞」を頂きました  
+  {{< tweet 1426817549535088649 >}}
+  {{< tweet 1429426967892217861 >}}
+
+#### 2021.11.19
+  VRChatワールド「tillroom」大型アップデート  
+  ProBuilderでゼロから作り直してリメイクしました  
+  {{< tweet 1461695144537694208 >}}

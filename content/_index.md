@@ -20,9 +20,11 @@ date: 2021-04-24
 {{< col>}}
 {{% markdownify %}}
 ## Support
-* <a data-ofuse-widget-button href="https://ofuse.me/o?uid=35377" data-ofuse-id="35377" data-ofuse-color="blue-green">OFUSEで応援を送る</a><script async src="https://ofuse.me/assets/platform/widget.js" charset="utf-8"></script>
-* <a href="https://www.patreon.com/bePatron?u=53826284" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-* [Till0196のほしい物リスト(Amazon)](https://www.amazon.co.jp/hz/wishlist/ls/3NX3Q6YO9LKK6?ref_=wl_share?tag=till019606b-22?tag=till019606b-22)
+
+<a data-ofuse-widget-button href="https://ofuse.me/o?uid=35377" data-ofuse-id="35377" data-ofuse-color="blue-green">OFUSEで応援を送る</a><script async src="https://ofuse.me/assets/platform/widget.js" charset="utf-8"></script>
+<a href="https://www.patreon.com/bePatron?u=53826284" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+[Till0196のほしい物リスト(Amazon)](https://www.amazon.co.jp/hz/wishlist/ls/3NX3Q6YO9LKK6?ref_=wl_share?tag=till019606b-22?tag=till019606b-22)
 {{% /markdownify %}}
 {{< /col>}}
 {{< /grid2 >}}
