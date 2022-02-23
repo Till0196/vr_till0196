@@ -6,7 +6,8 @@ title = "Till0196 VR Profile"
 
 [params]
   name = "Till0196 VR Profile"
-  description = "Modern portfolio theme for your Hugo site."
+  description = "Till0196がVRChatとかでやってることをまとめたプロフィールサイト"
+  images = "/photo.png"
   author = "Till0196"
   authorEmail = "name@example.com"
   authorImage = "/photo.png"
