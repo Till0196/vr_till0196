@@ -20,6 +20,7 @@ title = "Till0196 VR Profile"
   title = "ラスクちゃんはカワイイ"
   tagline = "Till0196"
   description = "のんびりまったり"
+  about = "/about"
 
 #[params.homepage.codepen]
 #  username = "apvarun"
