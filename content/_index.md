@@ -46,7 +46,7 @@ date: 2021-04-24
     >
       <a
         class="px-6 py-2 rounded-full bg-black text-white"
-        href="https://vrchat.com/home/launch?worldId=wrld_6292131e-4e50-4c7b-b180-c5ce08ec0caa"
+        href="https://vrchat.com/home/launch?worldId=wrld_11bb4c3b-f7c7-44a1-a202-4ae4cff3fb6c"
         target="_blank"
         rel="noopener noreferrer"
         >tillroom</a
