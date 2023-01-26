@@ -84,7 +84,7 @@ date: 2021-04-24
     >
       <a
         class="px-6 py-2 rounded-full bg-black text-white"
-        href="https://vrchat.com/home/launch?worldId=wrld_6292131e-4e50-4c7b-b180-c5ce08ec0caa"
+        href="https://vrchat.com/home/launch?worldId=wrld_5305dae5-d5e2-4194-a238-2293a8295fc4"
         target="_blank"
         rel="noopener noreferrer"
         >Just Chinema!</a
